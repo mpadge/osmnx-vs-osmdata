@@ -2,10 +2,10 @@ Package: ovo
 Title: osmnx versus omsdata
 Version: 0.0.0
 Authors@R: person("Mark", "Padgham", email = "mark.padgham@email.com", role = c("aut", "cre"))
-Description: Comparison of osmdata functionality with python osmnx
+Description: Comparison of osmdata functionality with python osmnx.
 License: GPL-3
 URL: https://github.com/mpadge/osmnx-vs-osmdata
 BugReports: https://github.com/mpadge/osmnx-vs-osmdata/issues
 LazyData: true
 Encoding: UTF-8
-RoxygenNote: 6.1.0
+RoxygenNote: 6.1.1
